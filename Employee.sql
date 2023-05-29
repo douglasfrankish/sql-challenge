@@ -1,4 +1,4 @@
--- DATA ENGINEERING
+--TABLE SCHEMATA
 
 -- create employees table
 CREATE TABLE "employees" (
